@@ -1,4 +1,3 @@
-# CodeAlpha_HangmanGame
 # CodeAlpha Hangman Game
 
 ## Description
